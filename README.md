@@ -2,7 +2,7 @@
 Automação de gestão fiscal para MEIs
 
 ## Sobre
-A NexPay é uma fintech que automatiza o cáclculo de impostos (DAS e IRPF) para Microempreendedores Individuais (MEIs), enviando lembretes de pagamentos antes dos vencimentos.
+A NexPay é uma fintech que automatiza o cálculo de impostos (DAS e IRPF) para Microempreendedores Individuais (MEIs), enviando lembretes de pagamentos antes dos vencimentos.
 
 ## Problema
 MEIs no Brasil têm dificuldade em calcular impostos corretamente e frequentemente pagam multas por erro ou atraso.
