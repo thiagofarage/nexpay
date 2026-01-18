@@ -1,36 +1,21 @@
-# NexPay
-Automação de gestão fiscal para MEIs
+# NexPay - Inteligência Financeira para MEIs
+A NexPay é um SaaS financeiro desenvolvido para transformar a gestão de Microempreendedores Individuais. Inspirado em modelos "Operatinf System" como a Mercury. O foco do projeto vai além do saldo bancário, focando em saúde operacional e conformidade fiscal. 
 
-## Sobre
-A NexPay é uma fintech que automatiza o cálculo de impostos (DAS e IRPF) para Microempreendedores Individuais (MEIs), enviando lembretes de pagamentos antes dos vencimentos.
+## Diferenciais do Projeto
+- Gestão de Impostos: Automação da reserva de valores para o DAS.
+- Segurança dos Dados: Modelagem robusta em PostgreSQL com foco em integridade transacional.
+- Visão de Negócio: Dahboards focados em lucro real e runway, não apenas extratos.
 
 ## Problema
 MEIs no Brasil têm dificuldade em calcular impostos corretamente e frequentemente pagam multas por erro ou atraso.
 
-## Solução
-Automação inteligente que:
-- Calcula DAS baseado nas receitas mensais
-- Calcula IRPF anual automaticamente
-- Envia lembretes antes dos vencimentos
-- Dashboard simples e intuitivo
+## Tech Stack
+- Front-end:React, Next.js e TailwindCSS.
+- Back-end: Node.js (planehado) e PostgreSQL.
+- Arquitetura: Clean code e foco em escalabilidade.
 
-## Tecnologias
-
-## Front-end:
-- React
-- JavaScript
-- Vercel (deploy)
-
-## Back-end (em desenvolvimento)
-- Node.js
-- Express
-- PostgreSQL
-
-## Status do Projeto
-[X] Ideação e validação inicial
-[X] Estrutura do banco de dados (PostgreSQL)
-[X]Landing Page (Hero, Features e Footer)
-[] Back-end API (Node.js)
-[] Integração Front-end + Back-end
-[] Validação com usuários
-[] MVP completo
+## Estrutura do Banco de Dados (Em desenvolvimento)
+Atualmente trabalhando na modelagem das tabelas de:
+- 'users': Gestão de Perfil e CNPJ.
+- 'transactions': Fluxo de caixa e histórico.
+- 'tax_provisions': Reserva estratégica para obrigações fiscais. 
