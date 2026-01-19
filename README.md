@@ -1,5 +1,5 @@
 # NexPay - Inteligência Financeira para MEIs
-A NexPay é um SaaS financeiro desenvolvido para transformar a gestão de Microempreendedores Individuais. Inspirado em modelos "Operatinf System" como a Mercury. O foco do projeto vai além do saldo bancário, focando em saúde operacional e conformidade fiscal. 
+A NexPay é um SaaS financeiro desenvolvido para transformar a gestão de Microempreendedores Individuais. Inspirado em modelos "Operating System" como a Mercury. O foco do projeto vai além do saldo bancário, focando em saúde operacional e conformidade fiscal. 
 
 ## Diferenciais do Projeto
 - Gestão de Impostos: Automação da reserva de valores para o DAS.
