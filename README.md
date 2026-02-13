@@ -11,7 +11,7 @@ MEIs no Brasil têm dificuldade em calcular impostos corretamente e frequentemen
 
 ## Tech Stack
 - Front-end:React, Next.js e TailwindCSS.
-- Back-end: Node.js (planehado) e PostgreSQL.
+- Back-end: Node.js (planejado) e PostgreSQL.
 - Arquitetura: Clean code e foco em escalabilidade.
 
 ## Estrutura do Banco de Dados (Em desenvolvimento)
